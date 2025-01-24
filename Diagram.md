@@ -1,7 +1,4 @@
 ```mermaid
-sequenceDiagram
-participant Attacker
-participant BotNet
-participant WebServer
-participant Firewall
+flowchart TD
+1([Start]) --> 2([End])
 ```
