@@ -1,4 +1,5 @@
 ```mermaid
 flowchart TD
-1([Start]) --> 2([End])
+1([Worrying?]) --> 2([yes])
+1([Worrying?]) --> 3([NO])
 ```
