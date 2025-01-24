@@ -6,3 +6,4 @@ flowchart TD
 3 --> 5([do something about it])
 4 --> 6([stop worrying])
 ```
+This is a flow chart that shows my thought process when I feel stressed.
